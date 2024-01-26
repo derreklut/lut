@@ -1,2 +1,2 @@
-# lut repo
+# lutris repo
 derreks
