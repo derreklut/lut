@@ -1,2 +1,2 @@
-# frontend repository
+# frontend repositories
 
